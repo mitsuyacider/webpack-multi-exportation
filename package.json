@@ -1,0 +1,22 @@
+{
+  "name": "Webpack-multi-copy",
+  "version": "1.0.0",
+  "description": "Copy compiled file to other directory.",
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "author": "Mitsuya Watanabe",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.5.4",
+    "@babel/polyfill": "^7.4.4",
+    "@babel/preset-env": "^7.5.4",
+    "babel-loader": "^8.0.6",
+    "fs-extra": "^8.1.0",
+    "uglifyjs-webpack-plugin": "^2.2.0",
+    "webpack": "^4.35.3",
+    "webpack-cli": "^3.0.3",
+    "webpack-stream": "^5.1.1"
+  }
+}

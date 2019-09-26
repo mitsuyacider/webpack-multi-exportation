@@ -1,0 +1,10 @@
+[
+  {
+    "dir": "other",
+    "filename": "index.js" 
+  },
+  {
+    "dir": "other/other2",
+    "filename": "index.js" 
+  }
+]
